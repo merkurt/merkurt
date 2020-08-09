@@ -1,4 +1,4 @@
-### I'm fine, how about you?
+### I'm fine, what about you?
 <!--
 **merkurt/merkurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
